@@ -1,2 +1,2 @@
 # STAT37830
-Scientif Computation with Python
+Scientific Computation with Python
