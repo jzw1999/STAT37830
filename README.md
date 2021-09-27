@@ -1,2 +1,2 @@
 # STAT37830
-Scientific Computation with Python
+This is the repo for course STAT 37830, Scientific Computation with Python.
